@@ -1,4 +1,6 @@
 # Bank Loan Analysis
+![bank-loan-summary](https://github.com/luee-dev/bank_loan_analysis/assets/151563449/43b1bac0-8818-4328-89cf-6ec535ad707c)
+
 ### Table of Content
 - [Bank Loan Analysis](#bank-loan-analysis)
     - [Table of Content](#table-of-content)
